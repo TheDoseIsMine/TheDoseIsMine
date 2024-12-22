@@ -6,7 +6,8 @@
 - 😄 Pronouns: I.
 - ⚡ Fun fact: I have no idea what I am doing. "Update" I'm starting to know a little about what I am doing.
 
-<!---
-TheDoseIsMine/TheDoseIsMine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Programming isn't just a career; it's my passion. Whether crafting immersive 2D side-scrollers, experimenting with game mechanics, or building the next epic journey, I'm always chasing the  thrill of creating something extraordinary.
+
+ When I'm not in Unity bringing ideas to life, you might find me debugging at 2 AM with coffee in hand, plotting new adventures for my characters, or leveling up my skills in the ever-   expanding realm of game dev.
+
+ Life’s a game, and I’m here to make it legendary. Let's build worlds together.
